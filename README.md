@@ -22,13 +22,11 @@ Bem-vindo ao repositório do meu projeto de drone! Este é um espaço dedicado a
 - **/hardware:** Especificações e designs para a estrutura física do drone.
 - **/media:** Imagens, vídeos e outros arquivos de mídia relacionados ao projeto.
 
-## Equipamentos equipados no drone  
+## Equipamentos instaldos no drone  
 Atualmente o drone está equipado com os seguinte itens
 - F4 V3S FC Flight Controller Board
 - LANRC 4in1 esc mak4
 - 4x BLDC Motor A2212/13 T - 1000 kV
 - Lipo 11.1v 3000mah 30c Aero Drone Phanton 1 Automodelo Fc40
 - Frame Quadricóptero F-450
-- Receptor Fs-ia10b
-
-Ainda é necessário providenciar o GPS
+- Receptor Fs-ia10b 
