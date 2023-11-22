@@ -1,4 +1,0 @@
-Hoje foi conectado um dos motores com seu respectivo ESC à Raspberry Pi, além da bateria de 11.1 Volts para alimentar o ESC. Utilizei como base códigos encontrados na Internet e foi possível realizar a ativação e variação da velocidade do motor através de modulação PWM da porta GPIO 12 da Rasp. 
-Irei comprar conectores Syndall para prosseguir com os teste conectando os 4 motores e seus respectivos ESC's
-
-Talvez seja interessante realizar a solda dos cabos de alimentação dos ESC's e fixá-los ao frame.
