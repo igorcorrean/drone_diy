@@ -27,7 +27,7 @@ Atualmente o drone está equipado com os seguinte itens
 - F4 V3S FC Flight Controller Board
 - LANRC 4in1 esc mak4
 - 4x BLDC Motor A2212/13 T - 1000 kV
-- LiPo 3000 mAh 30c
+- Lipo 11.1v 3000mah 30c Aero Drone Phanton 1 Automodelo Fc40
 - Frame Quadricóptero F-450
 - Receptor Fs-ia10b
 
