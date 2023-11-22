@@ -1,0 +1,5 @@
+O projeto é implementado com uma raspberry pi e MPU 6050 assim como o que comprei.
+https://github.com/aitorormazabal/DronePI
+
+O projeto utiliza o servoblaster, o link a seguir explica com instalar na Raspberry
+https://www.leenabot.com/Servo-Motor-driver/
