@@ -1,4 +1,4 @@
-# drone_diy
+# Drone_DIY
 Bem-vindo ao repositório do meu projeto de drone! Este é um espaço dedicado ao meu aprendizado sobre como funciona um drone, desde a construção da estrutura até a implementação do sistema de controle de voo.
 
 ## Objetivos
