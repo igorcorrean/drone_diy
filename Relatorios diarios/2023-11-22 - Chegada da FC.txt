@@ -1,0 +1,29 @@
+A Flight Controller F4 V3S possui as seguintes especificações:
+Nome do item: F4 V3S FC Flight Controller Board
+Tamanho: 36*36mm
+Furos de montagem: 30.5*30.5mm
+STM32 F405 MCU
+Suporte Dshot
+Arrastar e soltar OSD configurado via Betaflight
+Giroscópio: BMI270
+Portas SBUS / PPM E Spketrum DSMX
+Caixa preta de cartão de memória
+Baro (BMP280)
+BEC: 5V3A 9V3A
+Filtros de vídeo on-board (somente 5V para VTX e câmera )
+[F4 V3s FC](https://m.media-amazon.com/images/I/61iEZrtl0+L._AC_SL1500_.jpg)
+
+Com ela veio também o 4 em 1 60A BLHeli_S ESC
+Corrente contínua: 60A
+Corrente máxima: 70A
+Tensão de entrada: 2-6S
+BEC: Saída 5V
+Programação: SIM
+Firmware: blheli_s
+Peso: 9g
+Tamanho: 36 * 36mm
+
+A FC é compatível com o programa Betaflight, que é um software de código aberto (open source) desenvolvido para controladores de voo (flight controllers) usados em drones ou quadricópteros. 
+Ele é projetado para fornecer recursos avançados de controle de voo e ajustes finos, permitindo que os pilotos otimizem o desempenho de seus drones de acordo com suas preferências e necessidades específicas.
+
+Como referência de configuração estou utilizando o vídeo :(https://youtu.be/CTporLGOTtc)
