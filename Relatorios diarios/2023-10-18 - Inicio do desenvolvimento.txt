@@ -1,0 +1,12 @@
+A ideia inicial é montar um drone com uma Raspberry pi 4B que seja capaz de voar e realizar operações simples de automatização com se manter na posição(Hold), pousar(landing) e levantar voo (takeoff).
+Para isso irei utilizar:
+	4x motores BLDC A2212/13 T - 1000 kV, que é um ótimo motor de entrada para me familiarizar 4x ESC's 30A. Foram comprados junto com 4 hélices pelo mercado livre
+	1x frame do drone vai ser de 450mm
+	1x Bateria de 3000 mAh
+	1x Carregador Balanceador L3 Lipo 2s 3s 110/220v Leão Airsoft 
+
+Obs.: Em paralelo com a implementação do drone irei estudar e aprender a **utilizar IA com captura de imagem pela Raspberry**. Para isso será necessário um módulo com câmera.
+
+
+
+Existem placas chamadas de controladora de voo (flight controller) que possuem CI's dedicados e sensores ja embarcados que gerenciam os ESC's
